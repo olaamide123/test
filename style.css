@@ -27,9 +27,6 @@ button {
   padding: 1rem 4rem;
   font-size: 2rem;
   animation: all 2s;
-  /* fatihat adjustmet */
-  background-color: grey;
-  color: #fff;
 }
 
 button:hover {
